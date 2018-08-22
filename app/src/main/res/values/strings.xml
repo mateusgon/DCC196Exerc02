@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DCC196Exerc02</string>
+    <string name="numeroUmText">Digite um número!</string>
+    <string name="numeroDoisText">Digite outro número!</string>
+    <string name="calculaButton">Calcula!</string>
+    <string name="resultadoText" />
+</resources>
